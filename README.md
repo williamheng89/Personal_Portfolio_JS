@@ -1,2 +1,2 @@
-# Personal_Portfolio_JS
-Personal Portfolio + styling + js
+# Personal_Portfolio
+Personal and Professional Porfolio
